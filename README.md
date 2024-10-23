@@ -1,4 +1,4 @@
-# 19CS415-Implement-DES-Encryption-and-Decryption
+# EX-7 | Implement DES Encryption and Decryption
 ## Aim:
 Implementation of Pseudorandom Number Generation Using Standard library.
 ## Design Steps:
